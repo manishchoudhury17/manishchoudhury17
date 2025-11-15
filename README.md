@@ -3,7 +3,8 @@
 
 [![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-syntaxslayer-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/syntaxslayer/)
 
-![GFG Stats](https://gfgstatscard.vercel.app/gfgcard?username=syntaxslayer)
+![GFG Stats](https://gfgstatscard.vercel.app/api?userName=syntaxslayer)
+
 <!--
 **manishchoudhury17/manishchoudhury17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
